@@ -7,7 +7,7 @@
 body {
 	background: #F3EBE9;
 	font-size: 100%;
-	font-family: 'Times New Roman', serif; 
+	font-family: 'Times New Roman', serif;
 }
 
 .wrapper {
@@ -18,3 +18,56 @@ body {
 }
 
 /* Write all remaining styles here */
+
+/* Logo */
+header {
+  color: rgb(151, 173, 167);
+  text-decoration: none;
+}
+
+h1 {
+  padding-bottom: 10px;
+  margin: 0 0 5px;
+  font-size: 5em;
+  font-family: 'Baskerville', serif;
+  border-bottom: 1px solid #ccc;
+}
+
+#necklace img {
+  border: 5px rgb(152, 173, 166) solid;
+}
+
+h2 {
+  color: rgb(111, 127, 122);
+  font-size: 2em;
+  display: block;
+}
+
+p {
+  color: #555;
+  font-size: 1em;
+  margin: 0 0 20px 0;
+  display: block;
+}
+
+#press {
+  margin-bottom: 20px;
+}
+
+#press img {
+  border: 5px #ccc solid;
+  padding: 1px;
+}
+
+a {
+  text-decoration: underline;
+}
+
+footer {
+  text-align: right;
+  background: #fff;
+}
+
+.copyright {
+  font-size: 0.8em;
+}
